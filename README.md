@@ -50,9 +50,6 @@ Here are a few projects I'm working on:
 
 ---
 
-## 🏆 Statistiques GitHub
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squall98&show_icons=true&theme=radical)
-
-
 *Propulsé par ma passion pour la technologie et les jeux vidéo.*
+
 *Powered by my love for technology and gaming.*
