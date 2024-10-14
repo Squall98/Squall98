@@ -1,46 +1,58 @@
+# 👋 Bonjour, je suis Dylan (Squall98)
+
+### Bienvenue sur mon profil GitHub !
+
+Passionné de technologie, je suis toujours à l'affût des dernières innovations, notamment dans les domaines de l'intelligence artificielle, de l'automatisation, et des projets DIY électroniques. J'adore explorer et comprendre comment les technologies peuvent transformer notre quotidien. En dehors du code, je passe aussi beaucoup de temps à m'immerger dans des jeux vidéo, à découvrir de nouveaux outils et à mener des projets créatifs autour du hardware et du logiciel.
+
+---
+
 # 👋 Hello, I'm Dylan (Squall98)
 
 ### Welcome to my GitHub Profile!
 
-I am a tech enthusiast with over six years of experience in IT support, system administration, and hardware troubleshooting. I have worked with various technologies, including Office 365, Microsoft Azure, Python programming, and more. I am also passionate about gaming and electronic DIY projects.
-
-### 🛠️ Technologies and Tools I Work With:
-- **Languages**: Python, Bash, HTML, CSS
-- **Operating Systems**: Windows, Linux (elementary OS), macOS
-- **Technologies**: Office 365, Microsoft Azure, Raspberry Pi, Docker
-- **Tools**: Git, Visual Studio Code, Navicat for SQLite, WinRAR, Sublime Text
-
-### 📂 My Projects
-Here are a few projects I'm working on:
-
-- [**Capture-Coordonnee**](https://github.com/Squall98/Capture-Coordonnee): A Python project to capture and manage contact coordinates.
-- [**Baritone-Commande-List**](https://github.com/Squall98/Baritone-Commande-List): A project aimed at automating commands with Baritone.
-- **GitBook on Nintendo Switch Hacking**: I'm building a comprehensive guide to hacking and customizing Nintendo Switch, updating and translating existing resources.
-  
-### 🌟 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Squall98&repo=Capture-Coordonnee)](https://github.com/Squall98/Capture-Coordonnee)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Squall98&repo=Baritone-Commande-List)](https://github.com/Squall98/Baritone-Commande-List)
-
-### 💼 Professional Experience
-I have worked as an IT technician for companies like Heineken and Koniambo Nickel SAS, handling tasks such as:
-- Hardware troubleshooting and repairs
-- System and network administration
-- Technical support for Microsoft solutions (Office 365, Azure)
-  
-I am also looking to start my own IT support business as a freelancer.
-
-### 📧 Contact Me
-Feel free to reach out to me through my social media or contact me directly via email:
-- **Email**: squall98@example.com
-- [LinkedIn](https://www.linkedin.com/in/squall98)
-- [Facebook](https://www.facebook.com/Squall98)
-
-### 🏆 GitHub Stats
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squall98&show_icons=true&theme=radical)
-
-### 🎮 Gaming
-I’m a huge fan of MMORPGs like World of Warcraft and survival games like ARK: Survival Ascendant. I also play Dragon Ball Sparking Zero.
+I'm a technology enthusiast always on the lookout for the latest innovations, particularly in artificial intelligence, automation, and DIY electronic projects. I love exploring how technology can transform everyday life. When I'm not coding, I spend time diving into video games, discovering new tools, and working on creative projects around hardware and software.
 
 ---
 
+## 🛠️ Technologies et Outils :
+- **Langages** : Python, Bash, HTML, CSS, Powershell
+- **Systèmes d'exploitation** : Windows, Linux (Ubuntu), macOS
+- **Technologies** : Office 365, Microsoft Azure, Raspberry Pi, Docker
+- **Outils** : Git, Visual Studio Code, Navicat for SQLite, Cursor IDE, Sublime Text
+
+---
+
+## 🛠️ Technologies and Tools I Work With:
+- **Languages**: Python, Bash, HTML, CSS, Powershell
+- **Operating Systems**: Windows, Linux (Ubuntu), macOS
+- **Technologies**: Office 365, Microsoft Azure, Raspberry Pi, Docker
+- **Tools**: Git, Visual Studio Code, Navicat for SQLite, Cursor IDE, Sublime Text
+
+---
+
+## 📂 Mes Projets
+Voici quelques projets sur lesquels je travaille :
+
+- [**Capture-Coordonnee**](https://github.com/Squall98/Capture-Coordonnee) : Un projet Python pour capturer et gérer des coordonnées de contact.
+- [**Baritone-Commande-List**](https://github.com/Squall98/Baritone-Commande-List) : Un projet qui permet de répertorier toutes les commandes du mod Baritone pour Minecraft.
+- [**GitBook sur le hack de la Nintendo Switch**](https://mahora.gitbook.io/guide-complet-du-hack-de-la-nintendo-switch) : Un guide complet sur le hack et la personnalisation de la Nintendo Switch, en mettant à jour et en traduisant des ressources existantes.
+- [**GitBook sur la création d'un serveur privé Dofus**](https://mahora.gitbook.io/guide-pour-cree-un-serveur-priver-dofus) : Un guide complet sur la création d'un serveur privé Dofus, avec des explications détaillées et des ressources mises à jour.
+
+---
+
+## 📂 My Projects
+Here are a few projects I'm working on:
+
+- [**Capture-Coordonnee**](https://github.com/Squall98/Capture-Coordonnee): A Python project to capture and manage contact coordinates.
+- [**Baritone-Commande-List**](https://github.com/Squall98/Baritone-Commande-List): A project that allows storing all the commands of the Baritone mod for Minecraft.
+- [**GitBook on Nintendo Switch Hacking**](https://mahora.gitbook.io/guide-complet-du-hack-de-la-nintendo-switch): A comprehensive guide on hacking and customizing the Nintendo Switch, with updates and translations of existing resources.
+- [**GitBook on Creating a Private Dofus Server**](https://mahora.gitbook.io/guide-pour-cree-un-serveur-priver-dofus): A complete guide on creating a private Dofus server, with detailed explanations and updated resources.
+
+---
+
+## 🏆 Statistiques GitHub
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squall98&show_icons=true&theme=radical)
+
+
+*Propulsé par ma passion pour la technologie et les jeux vidéo.*
 *Powered by my love for technology and gaming.*
