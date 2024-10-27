@@ -39,6 +39,7 @@ Voici quelques projets sur lesquels je travaille :
 
 - [**Capture-Coordonnee**](https://github.com/Squall98/Capture-Coordonnee) : Un projet Python pour capturer et gérer des coordonnées de contact.
 - [**Baritone-Commande-List**](https://github.com/Squall98/Baritone-Commande-List) : Un projet qui permet de répertorier toutes les commandes du mod Baritone pour Minecraft.
+- [**Steam Library Exporter**](https://github.com/Squall98/Steam-Library-Exporter) : Une application pour extraire et exporter des informations de jeux depuis une bibliothèque Steam vers un fichier CSV.
 - [**GitBook sur le hack de la Nintendo Switch**](https://mahora.gitbook.io/guide-complet-du-hack-de-la-nintendo-switch) : Un guide complet sur le hack et la personnalisation de la Nintendo Switch, en mettant à jour et en traduisant des ressources existantes.
 - [**GitBook sur la création d'un serveur privé Dofus**](https://mahora.gitbook.io/guide-pour-cree-un-serveur-priver-dofus) : Un guide complet sur la création d'un serveur privé Dofus, avec des explications détaillées et des ressources mises à jour.
 
